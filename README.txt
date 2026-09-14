@@ -1,20 +1,26 @@
-PIERRE GEISSE — BOOK SPONSORING + BOOK PHOTO & VIDÉO
+PGPIXS — SITE V3 COMPLET
 
-CONTENU
-- index.html : le book sponsoring actuel
-- portfolio.html : le nouveau book photo et vidéo
-- styles.css et portfolio.css : les mises en page
-- pages/ : les 18 pages du dossier sponsoring
-- portfolio-images/ : les photographies du portfolio
-- pgpixs-logo.svg : le logo PGPIXS
+INCLUS
+- Book sportif V2 complet : index.html + styles.css + pages/ (18 pages)
+- Portfolio photo/vidéo V3 : même univers et même mise en page que la V2
+- Anciennes photos de la V2 conservées : 19
+- Nouvelles photos ajoutées : 14
+- Domaine Rémi Pouizin ajouté en plus : 6
+- Vidéos V2 conservées
+- Formulaire simple de demande de devis ajouté
+- Logo PGPIXS inclus
 
-MISE À JOUR SUR GITHUB
-1. Ouvre https://github.com/pierregeisse/pierre-geisse
-2. Supprime les anciens fichiers du dépôt.
-3. Clique sur Add file puis Upload files.
-4. Glisse tout le contenu de ce dossier, sans glisser le dossier parent.
-5. Clique sur Commit changes.
-6. Attends une à deux minutes puis ouvre :
-   https://pierregeisse.github.io/pierre-geisse/
-
-Le bouton BOOK PHOTO & VIDÉO ouvre portfolio.html dans un nouvel onglet.
+MISE À JOUR GITHUB
+1. Supprime le contenu actuel du repository si tu veux repartir proprement.
+2. Décompresse ce ZIP.
+3. Sur GitHub : Add file > Upload files.
+4. Glisse TOUT le contenu du dossier à la racine :
+   index.html
+   styles.css
+   pages/
+   portfolio.html
+   portfolio.css
+   portfolio-images/
+   pgpixs-logo.svg
+5. Commit changes.
+6. Attends le redéploiement GitHub Pages.
