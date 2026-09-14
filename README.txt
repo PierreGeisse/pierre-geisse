@@ -1,13 +1,18 @@
-PIERRE GEISSE — WEB BOOK V2
+PIERRE GEISSE — WEB BOOK V3
 
-Cette V2 reproduit le book final page par page au lieu de le réinterpréter.
+NOUVEAUTÉS
+- Le Partnership Book reste strictement affiché comme dans la version V2.
+- Ajout d'un portfolio Domaine Rémi Pouizin avec 6 photos.
+- Ajout d'une rubrique Contact / Demande de devis.
+- Le formulaire est 100 % gratuit : aucune base de données ni service externe.
+  Il ouvre simplement l'application e-mail du visiteur avec toutes les informations préremplies.
 
-MISE À JOUR SUR GITHUB
-1. Ouvre ton repository GitHub.
-2. Supprime les anciens index.html, styles.css, script.js et l'ancien dossier assets.
-3. Clique sur Add file > Upload files.
-4. Envoie index.html, styles.css et le dossier pages/.
-5. Clique sur Commit changes.
-6. GitHub Pages se mettra à jour automatiquement.
-
-Book_final_source_for_web.pptx est fourni uniquement comme source de contrôle et n'est pas nécessaire sur GitHub.
+MISE À JOUR GITHUB
+1. Dans le repository GitHub, clique sur Add file > Upload files.
+2. Envoie/remplace :
+   - index.html
+   - styles.css
+   - dossier portfolio/
+3. Conserve le dossier pages/ déjà présent.
+4. Clique sur Commit changes.
+5. GitHub Pages se mettra à jour automatiquement.
